@@ -1,0 +1,5 @@
+2022-07-15 15:34:02 DEBUG App:12 - Debug Message Logged !!!
+2022-07-15 15:34:02 INFO  App:13 - Info Message Logged !!!
+2022-07-15 15:34:02 ERROR App:14 - Error Message Logged !!!
+java.lang.NullPointerException: NullError
+	at com.itaspirants.App.main(App.java:14)
